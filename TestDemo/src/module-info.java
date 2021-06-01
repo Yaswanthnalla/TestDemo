@@ -1,3 +1,0 @@
-module TestDemo {
-	exports SmokeTest;
-}
